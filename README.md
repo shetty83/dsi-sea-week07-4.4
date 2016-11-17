@@ -12,7 +12,7 @@ creator:
 
 The language of us refers to the concept that music and art encompass a universal way of communicating. A great Russian painting or musical composition doesn't need to be translated into English to be understood. It just needs to be created.
 
-Today we are going to do a little bit of creating on our own. We have been working on the top imdb movies in the past few projects. Why not work with all the movies this time? Use your new future skills to crawl through any movie's page and pull the top 3 user comments for the flick when that movie is queried by you site (Use the movie's IMDB ID). We are going to then vectorize the text and pull out the significant words. From there we are going to use each of those words to query giphy and return an image. Once we have all of our images, we are going to put them up on our website!
+Today we are going to do a little bit of creating on our own. We have been working on the top imdb movies in the past few projects. Why not work with all the movies this time? Use your new future skills to crawl through any movie's page and pull the top 3 user comments for the flick. We are then going to then vectorize the text and pull out the significant words. From there we are going to use each of those words to query giphy and return an image. Once we have all of our images, we are going to put them up on our website!
 
 [Here is my URL](https://peaceful-badlands-42479.herokuapp.com/site/imdb/lang/tt2488496/)
 
